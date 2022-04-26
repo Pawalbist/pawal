@@ -1,0 +1,4 @@
+{
+          "ip":"pawaldon.aternos.me",
+          "port":"16414",
+          "name":"Pawal"
